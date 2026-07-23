@@ -85,7 +85,9 @@ Small, **runnable** repos where I work through core data-intensive-systems trade
 
 <div align="center">
 
+<!-- Temporarily hidden — un-hide by deleting this comment line and the closing one below.
 ![Long's GitHub stats](https://github-readme-stats-one-lake-17.vercel.app/api?username=viplct&show_icons=true&hide_border=true&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9&bg_color=06110c)
+-->
 
 ![Top Languages](https://github-readme-stats-one-lake-17.vercel.app/api/top-langs/?username=viplct&layout=compact&hide_border=true&title_color=4ade80&text_color=c9d1d9&bg_color=06110c&langs_count=8)
 
