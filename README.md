@@ -85,9 +85,9 @@ Small, **runnable** repos where I work through core data-intensive-systems trade
 
 <div align="center">
 
-![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=viplct&show_icons=true&hide_border=true&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9&bg_color=06110c)
+![Long's GitHub stats](https://github-readme-stats-one-lake-17.vercel.app/api?username=viplct&show_icons=true&hide_border=true&title_color=4ade80&icon_color=4ade80&text_color=c9d1d9&bg_color=06110c)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viplct&layout=compact&hide_border=true&title_color=4ade80&text_color=c9d1d9&bg_color=06110c&langs_count=8)
+![Top Languages](https://github-readme-stats-one-lake-17.vercel.app/api/top-langs/?username=viplct&layout=compact&hide_border=true&title_color=4ade80&text_color=c9d1d9&bg_color=06110c&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=viplct&hide_border=true&background=06110c&stroke=1f3a2a&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=ffffff&dayLabels=8b949e)
 
