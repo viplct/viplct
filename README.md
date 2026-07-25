@@ -66,7 +66,7 @@ Small, **runnable** repos where I work through core data-intensive-systems trade
 | [**oltp-to-olap-pipeline**](https://github.com/viplct/oltp-to-olap-pipeline) | Row-store vs column-store, star-schema modelling, and what ETL is really for — with a benchmark you can reproduce | ✅ Live |
 | [**storage-compute-separation**](https://github.com/viplct/storage-compute-separation) | Cloud-native storage/compute split, with a cost model showing when it's cheaper than a coupled DB — and when it isn't | ✅ Live |
 | [**scale-up-before-out**](https://github.com/viplct/scale-up-before-out) | Load-testing one node's throughput ceiling, and the arithmetic for when distributing is actually justified | ✅ Live |
-| **privacy-by-design-reference** | GDPR data-subject rights (access, erasure, portability) as an architecture concern | 🔜 Planned |
+| [**privacy-by-design-reference**](https://github.com/viplct/privacy-by-design-reference) | GDPR rights (access, erasure, portability, retention) driven by a declarative PII data map — with verifiable erasure | ✅ Live |
 
 📖 Companion write-ups live on [**longpham.tech/blog**](https://longpham.tech/blog).
 
