@@ -69,7 +69,7 @@ Small, **runnable** repos where I work through core data-intensive-systems trade
 | [**privacy-by-design-reference**](https://github.com/viplct/privacy-by-design-reference) | GDPR rights (access, erasure, portability, retention) driven by a declarative PII data map — with verifiable erasure | ✅ Live |
 | [**measure-latency-right**](https://github.com/viplct/measure-latency-right) | Why the mean lies, why percentiles don't average, and coordinated omission — three runnable latency demos | ✅ Live |
 | [**overload-resilience**](https://github.com/viplct/overload-resilience) | Retry storms & metastable failure vs load shedding + circuit breaker; goodput simulated and compared | ✅ Live |
-| **chaos-failover** | Fault injection on a replicated setup: SPOF vs failover, measured downtime | 🔜 Planned |
+| [**chaos-failover**](https://github.com/viplct/chaos-failover) | Kill a replica mid-traffic: SPOF turns a fault into an outage, failover survives — measured downtime | ✅ Live |
 | **safe-deploys-canary** | Big-bang vs canary + auto-rollback: blast radius and time-to-recover | 🔜 Planned |
 
 📖 Companion write-ups live on [**longpham.tech/blog**](https://longpham.tech/blog).
