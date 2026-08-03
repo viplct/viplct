@@ -72,6 +72,7 @@ Small, **runnable** repos where I work through core data-intensive-systems trade
 | [**chaos-failover**](https://github.com/viplct/chaos-failover) | Kill a replica mid-traffic: SPOF turns a fault into an outage, failover survives — measured downtime | ✅ Live |
 | [**safe-deploys-canary**](https://github.com/viplct/safe-deploys-canary) | Big-bang vs canary + auto-rollback: same broken release, 99.5% less blast radius | ✅ Live |
 | [**choosing-a-database**](https://github.com/viplct/choosing-a-database) | Pick the model then the engine (SQLite vs Postgres...): measured trade-offs + a decision engine over 16 DBs | ✅ Live |
+| [**lsm-vs-btree**](https://github.com/viplct/lsm-vs-btree) | A mini LSM engine built from scratch (Bloom filters, compaction, tombstones) + the measured index trade-off | ✅ Live |
 
 📖 Companion write-ups live on [**longpham.tech/blog**](https://longpham.tech/blog).
 
