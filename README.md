@@ -75,6 +75,7 @@ Small, **runnable** repos where I work through core data-intensive-systems trade
 | [**lsm-vs-btree**](https://github.com/viplct/lsm-vs-btree) | A mini LSM engine built from scratch (Bloom filters, compaction, tombstones) + the measured index trade-off | ✅ Live |
 | [**beyond-the-btree-indexes**](https://github.com/viplct/beyond-the-btree-indexes) | Inverted (full-text), spatial (geo), and vector (HNSW) indexes vs brute-force — incl. recall-vs-latency for RAG | ✅ Live |
 | [**replication-consistency**](https://github.com/viplct/replication-consistency) | Quantifying "eventual": quorum staleness (w+r>n), async read anomalies, and failover write loss | ✅ Live |
+| [**replication-conflict-resolution**](https://github.com/viplct/replication-conflict-resolution) | Concurrent writes: LWW data loss vs CRDT convergence, and version vectors for detecting concurrency | ✅ Live |
 
 📖 Companion write-ups live on [**longpham.tech/blog**](https://longpham.tech/blog).
 
